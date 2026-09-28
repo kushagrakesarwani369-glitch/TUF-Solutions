@@ -6,18 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 2 | 0 | `2026-09-28` |
+| **3** | 0 | 3 | 0 | `2026-09-28` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [690. Divisors of a Number](./DSA/General/divisors-of-a-number) | [CPP](./DSA/General/divisors-of-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
-| 0002 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0001 | [873. Count of odd numbers in Array](./DSA/Arrays/count-of-odd-numbers-in-array) | [CPP](./DSA/Arrays/count-of-odd-numbers-in-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0002 | [690. Divisors of a Number](./DSA/General/divisors-of-a-number) | [CPP](./DSA/General/divisors-of-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
+| 0003 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
 
 ---
 
