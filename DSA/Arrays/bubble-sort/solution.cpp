@@ -1,18 +1,19 @@
 class Solution {
 public:
     vector<int> bubbleSort(vector<int>& nums) {
-        int n = false;
-        while(!n){  
+        int n = nums.size();
+        while(n>1){  
             int p = 0;
-            for(int i =0,j=1; i<nums.size()-1,j<nums.size();i++,j++){
+            for(int i =0; i<n-1;i++){
                 
-                if(nums[i]>nums[j]){
-                    swap(nums[i],nums[j]);
+                if(nums[i]>nums[i+1]){
+                    swap(nums[i],nums[i+1]);
                     p++;
                 } 
             }
             if(p ==0)
                     break;
+            n--;
 
 
 
