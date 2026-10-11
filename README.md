@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **5** | 0 | 5 | 0 | `2026-09-29` |
+| **6** | 0 | 6 | 0 | `2026-10-11` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (5)
+### DSA (6)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,6 +21,7 @@
 | 0003 | [690. Divisors of a Number](./DSA/General/divisors-of-a-number) | [CPP](./DSA/General/divisors-of-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-09-28` |
 | 0004 | [741. Reverse an array](./DSA/Arrays/reverse-an-array) | [CPP](./DSA/Arrays/reverse-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-29` |
 | 0005 | [886. Sum of Array Elements](./DSA/Arrays/sum-of-array-elements) | [CPP](./DSA/Arrays/sum-of-array-elements/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-09-28` |
+| 0006 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-11` |
 
 ---
 
