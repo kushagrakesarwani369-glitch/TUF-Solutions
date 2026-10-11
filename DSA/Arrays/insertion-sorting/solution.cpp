@@ -1,0 +1,22 @@
+class Solution {
+public:
+    vector<int> insertionSort(vector<int>& nums) {
+        for(int i = 1;i<nums.size();i++){
+            int k = i;
+            for(int j = i - 1 ; j>=0;j--){
+                if(nums[j]>nums[i]){
+                    swap(nums[j],nums[i]);
+                    i--;
+                }
+                else
+                    break;
+               
+            }
+            i = k;
+
+
+
+        }return nums;
+
+    }
+};
